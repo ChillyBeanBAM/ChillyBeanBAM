@@ -1,5 +1,5 @@
 ## About ChillyBeanBAM
-Hello there! I'm some random coder who likes a lot of things.
+Hello there! I'm some random coder who likes a lot of things. I also ramble about random stuff like *Friday Night Funkin'*, Nintendo, *Plants vs. Zombies*, *Cookie Run* (the Citrus Squad are some of my favorite characters from that franchise), etc.
 
 <!--
 **ChillyBeanBAM/ChillyBeanBAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
