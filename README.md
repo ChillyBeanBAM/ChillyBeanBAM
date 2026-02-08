@@ -1,5 +1,5 @@
 ## About ChillyBeanBAM
-*Coming soon!*
+Hello there! I'm some random coder who likes a lot of things.
 
 <!--
 **ChillyBeanBAM/ChillyBeanBAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
